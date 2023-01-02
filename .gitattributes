@@ -1,0 +1,16 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+arduino filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTING.md filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTORS filter=lfs diff=lfs merge=lfs -text
+docs filter=lfs diff=lfs merge=lfs -text
+ios filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+server filter=lfs diff=lfs merge=lfs -text
+android filter=lfs diff=lfs merge=lfs -text
+hardware filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+pywalt filter=lfs diff=lfs merge=lfs -text
+AUTHORS filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+README.google filter=lfs diff=lfs merge=lfs -text
